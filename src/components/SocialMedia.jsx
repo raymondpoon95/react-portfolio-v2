@@ -22,12 +22,6 @@ const SocialMedia = () => {
           <BsInstagram />
         </div>
       </a>
-      
-      <a href="https://www.instagram.com/raymondpoon_/">
-        <div>
-          <BsInstagram />
-        </div>
-      </a>
     </div>
   );
 };
